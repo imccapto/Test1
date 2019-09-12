@@ -1,1 +1,0 @@
-Dette er en beskrivelse af det første projekt
